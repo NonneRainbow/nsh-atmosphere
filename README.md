@@ -10,7 +10,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[sys-clk](https://github.com/retronx-team/sys-clk/releases) v1.0.0 - overclock  
 •[sys-screenuploader](https://github.com/bakatrouble/sys-screenuploader/releases)  v0.0.10 - send captures to telegram  
 •[nx-ovlloader](https://github.com/WerWolv/nx-ovlloader/releases) v1.0.6 - tesla-menu  
-•[emuiibo](https://github.com/XorTroll/emuiibo/releases) v0.6.2 - amiibos   🆕  
+•[emuiibo](https://github.com/XorTroll/emuiibo/releases) v0.6.2 - amiibos  🆙  
 •[sys-ftpd-light](https://github.com/cathery/sys-ftpd-light/releases) v1.0.4 - ftp server   
 •[sys-con](https://github.com/cathery/sys-con/releases) v0.6.2 - generic joysticks  
 •[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.7.0 - lan-play   
@@ -18,7 +18,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[saltyNX](https://github.com/masagrator/SaltyNX/releases) v0.4.0a - view FPS 
 
 **.overlays**  
-•[emuiibo.ovl](https://github.com/XorTroll/emuiibo/releases) v0.6.2  🆕  
+•[emuiibo.ovl](https://github.com/XorTroll/emuiibo/releases) v0.6.2  🆙  
 •[ovlEdiZon.ovl](https://github.com/WerWolv/EdiZon/releases) v1.0.0  
 •[ovlmenu.ovl](https://github.com/WerWolv/Tesla-Menu/releases) v1.1.3  
 •[ovlSysmodules.ovl](https://github.com/WerWolv/ovl-sysmodules/releases) v1.2.1  
@@ -32,7 +32,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[Checkpoint](https://github.com/FlagBrew/Checkpoint/releases) v3.7.4 - backup saves  
 •[Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.0.0 - update firmware  
 •[EdiZon](https://github.com/WerWolv/EdiZon/releases) v3.1.0 nightly - backup saves   
-•[Goldleaf](https://github.com/XorTroll/Goldleaf/releases) v0.9 - install nsp   🆕  
+•[Goldleaf](https://github.com/XorTroll/Goldleaf/releases) v0.9 - install nsp   🆙  
 •[JKSV](https://github.com/J-D-K/JKSV/releases) v06.07.2020 - backup saves  
 •[ldnmitm cfg](https://github.com/spacemeowx2/ldn_mitm/releases) v1.7.0 - lan-play    
 •[Linkalho](https://github.com/rdmrocha/linkalho/releases) v1.0.4 - link fake Nintendo accounts  
@@ -47,7 +47,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[nsh-payload](https://github.com/team-racoon/nsh-atmosphere/releases) v1.0 nsh-payload ==> always looks for a payload.bin on the sd
 •[fusee-primary](https://github.com/Atmosphere-NX/Atmosphere/releases) v18.0.0 atmosphere payload
 •[Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases) v1.9.0 get the console keys
-•[TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/releases) v3.0.2 file explorer   🆕  
+•[TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/releases) v3.0.2 file explorer   🆙  
 
 
 -----------------------------------------------------------------------------
