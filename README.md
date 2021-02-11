@@ -19,7 +19,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 
 **.overlays**  
 •[emuiibo.ovl](https://github.com/XorTroll/emuiibo/releases) v0.6.2  🆕  
-•[ovlEdiZon.ovl](https://github.com/WerWolv/EdiZon/releases) v1.1.0  
+•[ovlEdiZon.ovl](https://github.com/WerWolv/EdiZon/releases) v1.0.0  
 •[ovlmenu.ovl](https://github.com/WerWolv/Tesla-Menu/releases) v1.1.3  
 •[ovlSysmodules.ovl](https://github.com/WerWolv/ovl-sysmodules/releases) v1.2.1  
 •[Status-Monitor-Overlay.ovl](https://github.com/masagrator/Status-Monitor-Overlay/releases) v0.6.3   
