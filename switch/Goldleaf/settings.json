@@ -11,7 +11,7 @@
         "menuItemSize": 80
     },
     "installs": {
-        "ignoreRequiredFwVersion": false
+        "ignoreRequiredFwVersion": true
     },
     "web": {
         "bookmarks": [
