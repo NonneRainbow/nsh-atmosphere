@@ -2,5 +2,6 @@
 /atmosphere/kip_patches/loader_patches/*
 /atmosphere/exefs_patches/*
 !/atmosphere/exefs_patches/bluetooth_patches
+!/atmosphere/exefs_patches/nsh-bootlogo
 /atmosphere/kips/*
 *.zip
