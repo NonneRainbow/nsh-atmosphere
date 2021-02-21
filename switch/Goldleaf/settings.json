@@ -1,17 +1,17 @@
 {
     "general": {
         "customLanguage": "es",
-        "externalRomFs": "/switch/Goldleaf/theme/rom"
+        "externalRomFs": "sdmc:/switch/Goldleaf/theme/rom"
     },
+    "installs": {
+        "ignoreRequiredFwVersion": true
+    },	
     "ui": {
         "background": "#3160A8FF",
         "base": "#3160A8FF",
         "baseFocus": "#224477FF",
-        "text": "#FFFFFFFF",
-        "menuItemSize": 80
-    },
-    "installs": {
-        "ignoreRequiredFwVersion": true
+        "menuItemSize": 80,
+		"text": "#FFFFFFFF"
     },
     "web": {
         "bookmarks": [
@@ -20,8 +20,12 @@
                 "url": "https://github.com/team-racoon/nsh-atmosphere/releases"
             },
             {
-                "name": "GitHub",
-                "url": "https://www.github.com"
+                "name": "Google",
+                "url": "https://google.com.ar"
+            },
+            {
+                "name": "Fast.com",
+                "url": "https://fast.com"
             }
         ]
     }
