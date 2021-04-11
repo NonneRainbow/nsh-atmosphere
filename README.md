@@ -37,10 +37,10 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[ldnmitm cfg](https://github.com/spacemeowx2/ldn_mitm/releases) v1.7.0 - lan-play    
 •[Linkalho](https://github.com/rdmrocha/linkalho/releases) v1.0.5 - link fake Nintendo accounts 🆙  
 •[NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log/releases) v1.3.2 - displays more play activity  
-•[NXdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.12  - backup of games  
+•[NXdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.13  - backup of games 🆙  
 •[NX-Shell](https://github.com/joel16/NX-Shell/releases) v3.2.0 - file explorer   
 •[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.6 - install themes   
-•[RipJKForwader](https://github.com/darkxex/RipJKNX/releases) v1.8.0 app de JKAnime 
+•[RipJKAnime](https://github.com/darkxex/RipJKNX/releases) v1.8.3.3 app de JKAnime 🆙 
 •[sys-clk-manager](https://github.com/retronx-team/sys-clk/releases) v1.0 overclock module control  
 
 **payloads**  
