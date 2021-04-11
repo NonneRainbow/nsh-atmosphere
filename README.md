@@ -46,8 +46,8 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 **payloads**  
 •[nsh-payload](https://github.com/team-racoon/nsh-atmosphere/releases) v1.0 nsh-payload ==> always looks for a payload.bin on the sd  
 •[fusee-primary](https://github.com/Atmosphere-NX/Atmosphere/releases) v18.0.2 atmosphere payload  
-•[Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases) v1.9.0 get the console keys  
-•[TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/releases) v3.0.2 file explorer       
+•[Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases) v1.9.1 get the console keys 🆙  
+•[TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/releases) v3.0.4 file explorer 🆙       
 
 
 -----------------------------------------------------------------------------
