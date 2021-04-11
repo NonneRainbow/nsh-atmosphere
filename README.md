@@ -7,7 +7,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 # Lista de cambios para el pack 18.0.2
 
 **módulos**  
-•[sys-clk](https://github.com/retronx-team/sys-clk/releases) v1.0.0 - overclock  
+•[sys-clk](https://github.com/retronx-team/sys-clk/releases) v1.0.1 - overclock 🆙  
 •[sys-screenuploader](https://github.com/bakatrouble/sys-screenuploader/releases)  v0.0.10 - send captures to telegram  
 •[nx-ovlloader](https://github.com/WerWolv/nx-ovlloader/releases) v1.0.6 - tesla-menu  
 •[emuiibo](https://github.com/XorTroll/emuiibo/releases) v0.6.2 - amiibos    
@@ -23,7 +23,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[ovlmenu.ovl](https://github.com/WerWolv/Tesla-Menu/releases) v1.1.3  
 •[ovlSysmodules.ovl](https://github.com/WerWolv/ovl-sysmodules/releases) v1.2.1  
 •[Status-Monitor-Overlay.ovl](https://github.com/masagrator/Status-Monitor-Overlay/releases) v0.6.3   
-•[sys-clk-Overlay.ovl](https://github.com/Sun-Research-University/sys-clk-Overlay/releases) v1.1   
+•[sys-clk-Overlay.ovl](https://github.com/Sun-Research-University/sys-clk-Overlay/releases) v1.1  
 
 **apps - homebrew**  
 •[App Store](https://github.com/vgmoose/hb-appstore/releases) v2.2 - store of apps  
