@@ -5,3 +5,5 @@
 !/atmosphere/exefs_patches/nsh-bootlogo
 /atmosphere/kips/*
 *.zip
+*.rar
+*.7z
