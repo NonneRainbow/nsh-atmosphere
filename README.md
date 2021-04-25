@@ -4,18 +4,18 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 ![NSH Logo](https://raw.githubusercontent.com/team-racoon/nsh-atmosphere/master/nsh-logo.png)
 
 
-# Lista de cambios para el pack 19.0.0
+# Lista de cambios para el pack 19.1.0
 
 **módulos**  
-•[sys-clk](https://github.com/retronx-team/sys-clk/releases) v1.0.1 - overclock 🆙  
+•[sys-clk](https://github.com/retronx-team/sys-clk/releases) v1.0.1 - overclock   
 •[sys-screenuploader](https://github.com/bakatrouble/sys-screenuploader/releases)  v0.0.10 - send captures to telegram  
 •[nx-ovlloader](https://github.com/WerWolv/nx-ovlloader/releases) v1.0.6 - tesla-menu  
-•[emuiibo](https://github.com/XorTroll/emuiibo/releases) v0.6.2 - amiibos    
+•[emuiibo](https://github.com/XorTroll/emuiibo/releases) v0.6.3 - amiibos 🆙    
 •[sys-ftpd-light](https://github.com/cathery/sys-ftpd-light/releases) v1.0.4 - ftp server   
-•[sys-con](https://github.com/cathery/sys-con/releases) v0.6.2 - generic joysticks  
-•[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.7.0 - lan-play   
-•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.4.1 - bluetooth joysticks   
-•[saltyNX](https://github.com/masagrator/SaltyNX/releases) v0.4.0a - view FPS 
+•[sys-con](https://github.com/cathery/sys-con/releases) v0.6.3 - generic joysticks 🆙  
+•[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.8.0 - lan-play 🆙   
+•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.5.0 - bluetooth joysticks 🆙   
+•[saltyNX](https://github.com/masagrator/SaltyNX/releases) v0.4.0a hotfix - view FPS 🆙 
 
 **.overlays**  
 •[emuiibo.ovl](https://github.com/XorTroll/emuiibo/releases) v0.6.2    
