@@ -14,7 +14,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[sys-ftpd-light](https://github.com/cathery/sys-ftpd-light/releases) v1.0.4 - ftp server   
 •[sys-con](https://github.com/cathery/sys-con/releases) v0.6.3 - generic joysticks 🆙  
 •[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.8.0 - lan-play 🆙   
-•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.5.0 - bluetooth joysticks 🆙   
+•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.5.0a2 - bluetooth joysticks 🆙   
 •[saltyNX](https://github.com/masagrator/SaltyNX/releases) v0.4.0a hotfix - view FPS 🆙 
 
 **.overlays**  
