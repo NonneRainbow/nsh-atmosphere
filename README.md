@@ -4,7 +4,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 ![NSH Logo](https://raw.githubusercontent.com/team-racoon/nsh-atmosphere/master/nsh-logo.png)
 
 
-# Lista de cambios para el pack 19.2.0
+# Lista de cambios para el pack 19.2.1
 
 **módulos**  
 •[sys-clk](https://github.com/retronx-team/sys-clk/releases) v1.0.1 - overclock   
@@ -39,8 +39,8 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log/releases) v1.3.2 - displays more play activity  
 •[NXdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.14  - backup of games   
 •[NX-Shell](https://github.com/joel16/NX-Shell/releases) v3.2.0 - file explorer   
-•[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.6.1 - install themes   
-•[RipJKAnime](https://github.com/darkxex/RipJKNX/releases) v1.8.3.3 app de JKAnime   
+•[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.6.1 - install themes 🆙  
+•[RipJKAnime](https://github.com/darkxex/RipJKNX/releases) v1.9.0.2 app de JKAnime   
 •[sys-clk-manager](https://github.com/retronx-team/sys-clk/releases) v1.0.1 overclock module control   
 
 **payloads**  
