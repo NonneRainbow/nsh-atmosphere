@@ -29,7 +29,6 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[App Store](https://github.com/vgmoose/hb-appstore/releases) v2.2 - store of apps  
 •[Awoo Installer](https://github.com/Huntereb/Awoo-Installer/releases) v1.3.4 - install nsp,xci,nsz   
 •[Browser](https://github.com/crc-32/BrowseNX/releases) v0.4.1 Launch native applet Browser   
-•[Checkpoint](https://github.com/FlagBrew/Checkpoint/releases) v3.7.4 - backup saves  
 •[Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.0.0 - update firmware  
 •[EdiZon](https://github.com/WerWolv/EdiZon/releases) v3.1.0 nightly - backup saves   
 •[Goldleaf](https://github.com/XorTroll/Goldleaf/releases) v0.9 - install nsp     
