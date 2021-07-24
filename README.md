@@ -34,7 +34,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[JKSV](https://github.com/J-D-K/JKSV/releases) v05.17.2021 - backup saves  
 •[ldnmitm cfg](https://github.com/spacemeowx2/ldn_mitm/releases) v1.8.0 - lan-play  
 •[Linkalho](https://github.com/rdmrocha/linkalho/releases) v1.0.5 - link fake Nintendo accounts  
-•[NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log/releases) v1.4.0 - displays more play activity 🆙  
+•[NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log/releases) v1.4.0 - displays more play activity  
 •[NXdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.14  - backup of games  
 •[NX-Shell](https://github.com/joel16/NX-Shell/releases) v3.2.0 - file explorer  
 •[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.6.2 - install themes 🆙  
@@ -46,7 +46,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[nsh-payload](https://github.com/team-racoon/nsh-atmosphere/releases) v1.0 nsh-payload ==> always looks for a payload.bin on the sd  
 •[fusee-primary](https://github.com/Atmosphere-NX/Atmosphere/releases) v0.19.3 atmosphere payload  
 •[Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases) v1.9.3 get the console keys  
-•[TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/releases) v3.0.6 file explorer 🆙  
+•[TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/releases) v3.0.6 file explorer   
 
 
 -----------------------------------------------------------------------------
