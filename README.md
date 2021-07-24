@@ -14,7 +14,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[sys-ftpd-light](https://github.com/cathery/sys-ftpd-light/releases) v1.0.4 - ftp server  
 •[sys-con](https://github.com/cathery/sys-con/releases) v0.6.3 - generic joysticks  
 •[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.8.0 - lan-play  
-•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.5.0-beta - bluetooth joysticks 🆙  
+•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.5.0 - bluetooth joysticks 🆙  
 •[saltyNX](https://github.com/masagrator/SaltyNX/releases) v0.4.0a hotfix - view FPS
 
 **.overlays**  
@@ -39,6 +39,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[NXdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.14  - backup of games  
 •[NX-Shell](https://github.com/joel16/NX-Shell/releases) v3.2.0 - file explorer  
 •[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.6.1 - install themes  
+•[Racoon Installer](https://github.com/team-racoon/Racoon-Installer/releases) v1.1.0 - install nsp,xci,nsz from(usb,hdd,net,sd)🆕  
 •[RipJKAnime](https://github.com/darkxex/RipJKNX/releases) v1.9.0.2 app de JKAnime  
 •[sys-clk-manager](https://github.com/retronx-team/sys-clk/releases) v1.0.1 overclock module control  
 
