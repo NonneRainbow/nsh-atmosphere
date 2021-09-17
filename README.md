@@ -20,7 +20,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[emuiibo.ovl](https://github.com/XorTroll/emuiibo/releases) v0.6.3  
 •[ovlEdiZon.ovl](https://github.com/WerWolv/EdiZon/releases) v1.0.0  
 •[ovlmenu.ovl](https://github.com/WerWolv/Tesla-Menu/releases) v1.1.4  
-•[ovlSysmodules.ovl](https://github.com/WerWolv/ovl-sysmodules/releases) v1.2.2 🆙  
+•[ovlSysmodules.ovl](https://github.com/WerWolv/ovl-sysmodules/releases) v1.2.2  
 •[Status-Monitor-Overlay.ovl](https://github.com/masagrator/Status-Monitor-Overlay/releases) v0.6.3  
 •[sys-clk-Overlay.ovl](https://github.com/Sun-Research-University/sys-clk-Overlay/releases) v1.1  
 
@@ -30,15 +30,14 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.0.0 - update firmware  
 •[EdiZon](https://github.com/WerWolv/EdiZon/releases) v3.1.0 nightly - backup saves  
 •[Goldleaf](https://github.com/XorTroll/Goldleaf/releases) v0.9 - install nsp  
-•[JKSV](https://github.com/J-D-K/JKSV/releases) v05.17.2021 - backup saves  
+•[JKSV](https://github.com/J-D-K/JKSV/releases) v09.01.2021 - backup saves 🆙  
 •[ldnmitm cfg](https://github.com/spacemeowx2/ldn_mitm/releases) v1.9.0 - lan-play 🆙  
 •[Linkalho](https://github.com/rdmrocha/linkalho/releases) v1.0.5 - link fake Nintendo accounts  
 •[NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log/releases) v1.4.0 - displays more play activity  
 •[NXdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.14  - backup of games  
 •[NX-Shell](https://github.com/joel16/NX-Shell/releases) v3.2.0 - file explorer  
-•[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.6.2 - install themes 🆙  
-•[Racoon Installer](https://github.com/team-racoon/Racoon-Installer/releases) v1.1.0 - install nsp,xci,nsz from(usb,hdd,net,sd)🆕  
-•[RipJKAnime](https://github.com/darkxex/RipJKNX/releases) v1.9.0.2 app de JKAnime  
+•[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.6.2 - install themes  
+•[Racoon Installer](https://github.com/team-racoon/Racoon-Installer/releases) v1.1.1 - install nsp,xci,nsz from(usb,hdd,net,sd) 🆙   
 •[sys-clk-manager](https://github.com/retronx-team/sys-clk/releases) v1.0.1 overclock module control  
 
 **payloads**  
