@@ -4,7 +4,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 ![NSH Logo](https://raw.githubusercontent.com/team-racoon/nsh-atmosphere/master/nsh-logo.png)
 
 
-# Lista de cambios para el pack 1.0.0
+# Lista de cambios para el pack 1.1.0
 
 **módulos**  
 •[sys-clk](https://github.com/retronx-team/sys-clk/releases) v1.0.1 - overclock  
@@ -43,7 +43,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 **payloads**  
 •[nsh-payload](https://github.com/team-racoon/nsh-atmosphere/releases) v1.0 nsh-payload ==> always looks for a payload.bin on the sd  
 •[fusee](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.0.0 atmosphere payload 🆙  
-•[Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases) v1.9.5 get the console keys 🆙  
+•[Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases) v1.9.6 get the console keys 🆙  
 •[TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/releases) v4.0.1 file 🆙 explorer   
 
 
