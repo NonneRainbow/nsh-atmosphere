@@ -12,7 +12,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[nx-ovlloader](https://github.com/WerWolv/nx-ovlloader/releases) v1.0.6 - tesla-menu  
 •[emuiibo](https://github.com/XorTroll/emuiibo/releases) v0.6.3 - amiibos  
 •[sys-ftpd-light](https://github.com/cathery/sys-ftpd-light/releases) v1.0.4 - ftp server  
-•[sys-con](https://github.com/cathery/sys-con/releases) v0.6.3 - generic joysticks  
+•[sys-con](https://github.com/cathery/sys-con/releases) v0.6.4 - generic joysticks 🆙  
 •[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.9.0 - lan-play 🆙  
 •[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.5.1 - bluetooth joysticks 🆙  
 
@@ -36,7 +36,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log/releases) v1.4.0 - displays more play activity  
 •[NXdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.14  - backup of games  
 •[NX-Shell](https://github.com/joel16/NX-Shell/releases) v3.2.0 - file explorer  
-•[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.6.2 - install themes  
+•[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.6.3 - install themes 🆙  
 •[Racoon Installer](https://github.com/team-racoon/Racoon-Installer/releases) v1.1.1 - install nsp,xci,nsz from(usb,hdd,net,sd) 🆙   
 •[sys-clk-manager](https://github.com/retronx-team/sys-clk/releases) v1.0.1 overclock module control  
 
