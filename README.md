@@ -7,7 +7,6 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 # Lista de cambios para el pack 1.1.1
 
 **módulos**  
-•[sys-clk](https://github.com/retronx-team/sys-clk/releases) v1.0.1 - overclock  
 •[sys-screenuploader](https://github.com/bakatrouble/sys-screenuploader/releases)  v0.0.10 - send captures to telegram  
 •[nx-ovlloader](https://github.com/WerWolv/nx-ovlloader/releases) v1.0.6 - tesla-menu  
 •[emuiibo](https://github.com/XorTroll/emuiibo/releases) v0.6.3 - amiibos  
@@ -22,23 +21,19 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[ovlmenu.ovl](https://github.com/WerWolv/Tesla-Menu/releases) v1.1.4  
 •[ovlSysmodules.ovl](https://github.com/WerWolv/ovl-sysmodules/releases) v1.2.2  
 •[Status-Monitor-Overlay.ovl](https://github.com/masagrator/Status-Monitor-Overlay/releases) v0.6.3  
-•[sys-clk-Overlay.ovl](https://github.com/Sun-Research-University/sys-clk-Overlay/releases) v1.1  
 
 **apps - homebrew**  
 •[App Store](https://github.com/vgmoose/hb-appstore/releases) v2.2 - store of apps  
-•[Browser](https://github.com/crc-32/BrowseNX/releases) v0.4.1 Launch native applet Browser  
 •[Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.0.0 - update firmware  
+•[DBI](https://github.com/rashevskyv/dbi/releases) v330 - install everything, remove updates 🆕  
 •[EdiZon](https://github.com/WerWolv/EdiZon/releases) v3.1.0 nightly - backup saves  
-•[Goldleaf](https://github.com/XorTroll/Goldleaf/releases) v0.9 - install nsp  
 •[JKSV](https://github.com/J-D-K/JKSV/releases) v09.01.2021 - backup saves 🆙  
-•[ldnmitm cfg](https://github.com/spacemeowx2/ldn_mitm/releases) v1.9.0 - lan-play 🆙  
 •[Linkalho](https://github.com/rdmrocha/linkalho/releases) v1.0.5 - link fake Nintendo accounts  
-•[NX-Activity-Log](https://github.com/tallbl0nde/NX-Activity-Log/releases) v1.4.0 - displays more play activity  
 •[NXdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.14  - backup of games  
 •[NX-Shell](https://github.com/joel16/NX-Shell/releases) v3.2.0 - file explorer  
 •[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.6.3 - install themes 🆙  
-•[Racoon Installer](https://github.com/team-racoon/Racoon-Installer/releases) v1.1.1 - install nsp,xci,nsz from(usb,hdd,net,sd) 🆙   
-•[sys-clk-manager](https://github.com/retronx-team/sys-clk/releases) v1.0.1 overclock module control  
+•[Racoon Installer](https://github.com/team-racoon/Racoon-Installer/releases) v1.1.1 - install nsp,xci,nsz from(usb,hdd,net,sd) 🆙  
+•[Themezer](https://github.com/suchmememanyskill/themezer-nx/releases) v2.0.0 - download themes and install 🆕  
 
 **payloads**  
 •[nsh-payload](https://github.com/team-racoon/nsh-atmosphere/releases) v1.0 nsh-payload ==> always looks for a payload.bin on the sd  
