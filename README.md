@@ -4,7 +4,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 ![NSH Logo](https://raw.githubusercontent.com/team-racoon/nsh-atmosphere/master/nsh-logo.png)
 
 
-# Lista de cambios para el pack 1.1.1
+# Lista de cambios para el pack 1.1.1a
 
 **módulos**  
 •[sys-screenuploader](https://github.com/bakatrouble/sys-screenuploader/releases)  v0.0.10 - send captures to telegram  
