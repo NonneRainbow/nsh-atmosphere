@@ -31,7 +31,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[DBI](https://github.com/rashevskyv/dbi/releases) v336 - install everything, remove updates  
 •[EdiZon](https://github.com/WerWolv/EdiZon/releases) v3.1.0 nightly - backup saves  
 •[JKSV](https://github.com/J-D-K/JKSV/releases) v09.01.2021 - backup saves  
-•[Linkalho](https://github.com/rdmrocha/linkalho/releases) v1.0.5 - link fake Nintendo accounts  
+•[Linkalho](https://github.com/rdmrocha/linkalho/releases) v1.0.6 - link fake Nintendo accounts  
 •[NXdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.14  - backup of games  
 •[NX-Shell](https://github.com/joel16/NX-Shell/releases) v3.2.0 - file explorer  
 •[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.6.3 - install themes  
