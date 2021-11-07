@@ -1,0 +1,120 @@
+#REQUIRE VER 4.0.0
+#REQUIRE MINERVA
+#REQUIRE SD
+
+p = println
+doubleCuotes = ["BYTE[]",34].bytestostr()
+enabled = 0x00FF00
+disabled = 0xFF0000
+hide = 0x20000FF
+
+contentsPath = "sd:/atmosphere/contents"
+modulePaths = ["null"].copy()
+moduleNames = ["null"].copy()
+moduleStates = [hide].copy()
+
+initialize = {
+	if(!fsexists(contentsPath)){
+		fatal(fatalMsg = "You need use atmosphere")
+	}
+	color(0xFFFF00)
+	p("Loading modules...\n")
+	contentsFolder = readdir(contentsPath) 
+	if (contentsFolder.result) {
+		 exit() 
+	} 
+	contentsFolder.folders.foreach("module") { 
+		
+		toolboxPath = combinepath(contentsPath, module, "toolbox.json")
+		flagsFolder = combinepath(contentsPath, module, "flags")
+
+		if(fsexists(toolboxPath)){
+			# Writes the name in variable moduleName
+			moduleName = ""
+			getModuleName()
+			# Writes the state in variable moduleState
+			moduleState = enabled
+			getModuleState()
+
+			modulePaths.add( flagsFolder + "/boot2.flag" )
+			moduleNames.add( moduleName )
+			moduleStates.add( moduleState )
+		}
+	}
+}
+
+
+getModuleName = {
+	file = readfile(toolboxPath)
+	lines = file.bytestostr().split("{")
+	lines = lines.get(1).split(",")
+	lines.foreach("line"){
+		lineToTrim = line
+		trim()
+		j = 0
+		while( (lineTrimmed[j] != doubleCuotes ) && (j < (lineTrimmed.len() - 1) ) ){
+			j = j + 1
+		}
+		if(lineTrimmed[j + 1] == "n"){
+			name = lineTrimmed.split(":")
+			name = name[1].split(doubleCuotes)
+			moduleName = name[1]
+		}
+	}
+}
+
+getModuleState = {
+	if(!fsexists(flagsFolder)){
+		mkdir(flagsFolder)
+		moduleState = disabled
+	}.else(){
+		moduleExistPath = flagsFolder + "/boot2.flag"
+		if(fsexists(moduleExistPath)){
+			moduleState = enabled
+		}.else(){
+			moduleState = disabled
+		}
+	}
+}
+
+trim = {
+	lineTrimmed = ""
+	i = 0
+	while( i < lineToTrim.len() ){
+		char = lineToTrim.get(i)
+		if((char != " ") && (char != "\t") && (char != "\n") && (char != "\r")){
+			lineTrimmed = lineTrimmed + char
+		}
+		i = i + 1
+	}
+}
+
+fatal = {
+	color(0xFF0000)
+	p("\n[FATAL]", fatalMsg)
+	pause()
+	exit()
+}
+
+initialize()
+goOut = 0
+lastSelected = 0
+clear()
+while( !goOut ){
+	color(0xFFFFFF)
+	printpos(1,41)
+	println("\n Atmosphere sysmodules manager -- Created by Team Racoon -- Sep/2021 -- v1.0.0\n")
+	printpos(1,1)
+	println("\n-- Modules --\n")
+	moduleSelected = menu(moduleNames,lastSelected,moduleStates)
+	lastSelected = moduleSelected
+	if(moduleSelected == 0){goOut = 1}.else(){
+		if(moduleStates[moduleSelected] == enabled){
+			delfile(modulePaths[moduleSelected])
+			moduleStates[moduleSelected] = disabled
+		}.else(){
+			writefile(modulePaths[moduleSelected],["BYTE[]"])
+			moduleStates[moduleSelected] = enabled
+		}
+	}
+}
