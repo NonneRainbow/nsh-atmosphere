@@ -4,9 +4,9 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 ![NSH Logo](https://raw.githubusercontent.com/team-racoon/nsh-atmosphere/master/nsh-logo.png)
 
 
-# Lista de cambios para el pack 1.2.4
+# Lista de cambios para el pack 1.2.5
 
-**Atmosphere 1.2.4 build e256261b8 **
+**Atmosphere 1.2.5 build 1019bc54e **
 **Hekate 5.6.5 - Nyx 1.1.1**
 
 **módulos**  
