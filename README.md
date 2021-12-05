@@ -15,8 +15,8 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[emuiibo](https://github.com/XorTroll/emuiibo/releases) v0.6.3 - amiibos  
 •[sys-ftpd-light](https://github.com/cathery/sys-ftpd-light/releases) v1.0.4 - ftp server  
 •[sys-con](https://github.com/cathery/sys-con/releases) v0.6.4 - generic joysticks  
-•[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.11.0 - lan-play 🆙  
-•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.6.1-master-0b69d4b - bluetooth joysticks 🆙  
+•[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.12.0 - lan-play 🆙  
+•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.6.3-master-23f3437 - bluetooth joysticks 🆙  
 
 **.overlays**  
 •[emuiibo.ovl](https://github.com/XorTroll/emuiibo/releases) v0.6.3  
