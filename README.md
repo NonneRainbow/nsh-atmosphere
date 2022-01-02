@@ -4,9 +4,9 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 ![NSH Logo](https://raw.githubusercontent.com/team-racoon/nsh-atmosphere/master/nsh-logo.png)
 
 
-# Lista de cambios para el pack 1.2.4
+# Lista de cambios para el pack 1.2.5
 
-**Atmosphere 1.2.4 build e256261b8 **
+**Atmosphere 1.2.5 build 1019bc54e **
 **Hekate 5.6.5 - Nyx 1.1.1**
 
 **módulos**  
@@ -15,11 +15,12 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[emuiibo](https://github.com/XorTroll/emuiibo/releases) v0.6.3 - amiibos  
 •[sys-ftpd-light](https://github.com/cathery/sys-ftpd-light/releases) v1.0.4 - ftp server  
 •[sys-con](https://github.com/cathery/sys-con/releases) v0.6.4 - generic joysticks  
-•[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.11.0 - lan-play 🆙  
-•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.6.1-master-0b69d4b - bluetooth joysticks 🆙  
+•[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.12.0 - lan-play 🆙  
+•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.6.3-master-23f3437 - bluetooth joysticks 🆙  
 
 **.overlays**  
 •[emuiibo.ovl](https://github.com/XorTroll/emuiibo/releases) v0.6.3  
+•[overlay ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.12.0 - lan-play 🆙  
 •[ovlEdiZon.ovl](https://github.com/WerWolv/EdiZon/releases) v1.0.0  
 •[ovlmenu.ovl](https://github.com/WerWolv/Tesla-Menu/releases) v1.1.4  
 •[ovlSysmodules.ovl](https://github.com/WerWolv/ovl-sysmodules/releases) v1.2.2  
@@ -28,14 +29,14 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 **apps - homebrew**  
 •[App Store](https://github.com/vgmoose/hb-appstore/releases) v2.2 - store of apps  
 •[Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.0.0 - update firmware  
-•[DBI](https://github.com/rashevskyv/dbi/releases) v336 - install everything, remove updates 🆙  
+•[DBI](https://github.com/rashevskyv/dbi/releases) v345 - install everything, remove updates 🆙  
 •[EdiZon](https://github.com/WerWolv/EdiZon/releases) v3.1.0 nightly - backup saves  
 •[JKSV](https://github.com/J-D-K/JKSV/releases) v09.01.2021 - backup saves  
-•[Linkalho](https://github.com/rdmrocha/linkalho/releases) v1.0.6 - link fake Nintendo accounts 🆙  
+•[Linkalho](https://github.com/rdmrocha/linkalho/releases) v1.0.6 - link fake Nintendo accounts   
 •[NXdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.14  - backup of games  
 •[NX-Shell](https://github.com/joel16/NX-Shell/releases) v3.2.0 - file explorer  
-•[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.6.4 - install themes 🆙  
-•[Racoon Installer](https://github.com/team-racoon/Racoon-Installer/releases) v1.1.3 - install nsp,xci,nsz from(usb,hdd,net,sd) 🆙  
+•[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.6.4 - install themes   
+•[Racoon Installer](https://github.com/team-racoon/Racoon-Installer/releases) v1.1.3 - install nsp,xci,nsz from(usb,hdd,net,sd)   
 •[Themezer](https://github.com/suchmememanyskill/themezer-nx/releases) v2.0.0 - download themes and install  
 
 **payloads**  
