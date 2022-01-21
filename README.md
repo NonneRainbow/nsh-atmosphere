@@ -6,8 +6,8 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 
 # Lista de cambios para el pack 1.2.6
 
-**Atmosphere 1.2.6 build 173d5c2d3 **
-**Hekate 5.6.5 - Nyx 1.1.1**
+**Atmosphere 1.2.6 build 173d5c2d3**
+**Hekate 5.7.0 - Nyx 1.2.0**
 
 **módulos**  
 •[sys-screenuploader](https://github.com/bakatrouble/sys-screenuploader/releases)  v0.0.10 - send captures to telegram  
