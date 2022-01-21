@@ -15,12 +15,12 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[emuiibo](https://github.com/XorTroll/emuiibo/releases) v0.6.3 - amiibos  
 •[sys-ftpd-light](https://github.com/cathery/sys-ftpd-light/releases) v1.0.4 - ftp server  
 •[sys-con](https://github.com/cathery/sys-con/releases) v0.6.4 - generic joysticks  
-•[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.12.0 - lan-play 🆙  
-•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.6.3-master-23f3437 - bluetooth joysticks 🆙  
+•[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.12.0 - lan-play   
+•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.6.4-master-0ee33b3 - bluetooth joysticks 🆙  
 
 **.overlays**  
 •[emuiibo.ovl](https://github.com/XorTroll/emuiibo/releases) v0.6.3  
-•[overlay ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.12.0 - lan-play 🆙  
+•[overlay ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.12.0 - lan-play  
 •[ovlEdiZon.ovl](https://github.com/WerWolv/EdiZon/releases) v1.0.0  
 •[ovlmenu.ovl](https://github.com/WerWolv/Tesla-Menu/releases) v1.1.4  
 •[ovlSysmodules.ovl](https://github.com/WerWolv/ovl-sysmodules/releases) v1.2.2  
@@ -29,8 +29,8 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 **apps - homebrew**  
 •[App Store](https://github.com/vgmoose/hb-appstore/releases) v2.2 - store of apps  
 •[Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.0.0 - update firmware  
-•[DBI](https://github.com/rashevskyv/dbi/releases) v345 - install everything, remove updates 🆙  
-•[EdiZon](https://github.com/WerWolv/EdiZon/releases) v3.1.0 nightly - backup saves  
+•[DBI](https://github.com/rashevskyv/dbi/releases) v350 - install everything, remove updates 🆙  
+•[EdiZon](https://github.com/WerWolv/EdiZon/releases) v3.1.0 - backup saves   
 •[JKSV](https://github.com/J-D-K/JKSV/releases) v09.01.2021 - backup saves  
 •[Linkalho](https://github.com/rdmrocha/linkalho/releases) v1.0.6 - link fake Nintendo accounts   
 •[NXdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.14  - backup of games  
