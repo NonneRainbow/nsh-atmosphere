@@ -41,7 +41,7 @@ clear()
 if(r==0){exit()}
 
 color(RED)
-if(r==1){if(!emu()){p("emuMMX no encontrada!")pe()}}
+if(r==1){if(!emu()){p("emuMMC no encontrada!")pe()}}
 
 color(WHITE)
 p("Montando la sysNAND...")
