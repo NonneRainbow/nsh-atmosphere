@@ -1,0 +1,94 @@
+CYAN = 0x00FFAA
+YELLOW = 0xFFAA00
+RED = 0xFF0000
+GREEN = 0x00FF00
+WHITE = 0xFFFFFF
+ORANGE = 0xFFA500
+VIOLET = 0x8F00FF
+
+p=println
+pe={pause() exit()}
+
+color(CYAN)
+p("TegraScript Syncfix.te creado por MezBar")
+p("Portado a TegraScript v3 por xHR")
+p("Traducido al Espanol por el Team-Racoon\n")
+p("")
+color(WHITE)
+p("Este script sincronizara los dispositivos bluetooth entre la sysNAND y emuMMC")
+p("Antes de continuar, ")
+p("por favor sincroniza todos tus joy-con y controles en tu sysNAND\n")
+p("")
+color(RED)
+p("Y Por favor activar el Modo avion")
+p("porque este script va a copiar tambien")
+p("la configuracion Wi-Fi desde tu sysNAND a la emuMMC")
+p("")
+color(WHITE)
+p("Si estas seguro que tenes incognito no hace falta dejarla en modo avion")
+p("")
+p("")
+p("")
+color(ORANGE)
+p("")
+p("Selecciona con el boton A")
+p("")
+p("")
+
+op=["Salir","Sincronizar la configuracion"].copy()
+r=menu(op,0)
+clear()
+if(r==0){exit()}
+
+color(RED)
+if(r==1){if(!emu()){p("emuMMC no encontrada!")pe()}}
+
+color(WHITE)
+p("Montando la sysNAND...")
+color(RED)
+if(mountsys("SYSTEM")){p("Fallo al montar la sysNAND")pe()}
+
+color(WHITE)
+mkdir("sd:/tegraexplorer")
+mkdir("sd:/tegraexplorer/syncfix")
+mkdir("sd:/tegraexplorer/syncfix/backup")
+p("Haciendo una copia de seguridad a")
+p("sd:/tegraexplorer/syncfix/backup/8000000000000050_sysnand_backup")
+copyfile("bis:/save/8000000000000050", "sd:/tegraexplorer/syncfix/backup/8000000000000050_sysnand_backup")
+p("")
+p("")
+
+color(VIOLET)
+p("Montando la emuMMC...")
+color(RED)
+if(mountemu("SYSTEM")){p("Fallo al montar la emuMMC")pe()}
+
+color(VIOLET)
+p("Haciendo una copia de seguridad a ")
+p("sd:/tegraexplorer/syncfix/backup/8000000000000050_emummc_backup")
+copyfile("bis:/save/8000000000000050", "sd:/tegraexplorer/syncfix/backup/8000000000000050_emummc_backup")
+p("")
+p("")
+p("")
+
+color(WHITE)
+p("Copiando el archivo 8000000000000050 desde la sysNAND a la emuMMC")
+copyfile("sd:/tegraexplorer/syncfix/backup/8000000000000050_sysnand_backup", "bis:/save/8000000000000050")
+p("")
+p("")
+p("")
+p("")
+
+color(GREEN)
+p("Listo!")
+p("")
+p("Ahora tus joy-cons deberian estar sincronizados entre la sysNAND y la emuMMC")
+p("")
+p("")
+p("")
+p("")
+
+color(ORANGE)
+p("Presiona cualquier boton para salir")
+
+pe()
