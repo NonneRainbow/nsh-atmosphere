@@ -1,0 +1,94 @@
+#REQUIRE VER 4.0.0
+#REQUIRE MINERVA
+#REQUIRE SD
+
+p = println
+doubleCuotes = ["BYTE[]",34].bytestostr()
+enabled = 0x00FF00
+disabled = 0xFF0000
+hide = 0x20000FF
+
+contentsPath = "sd:/atmosphere/contents"
+themePath = contentsPath + "/0100000000001000"
+fontPath = contentsPath + "/0100000000000811"
+fontAltPath = contentsPath + "/0100000000000039"
+themeAltPath = contentsPath + "/0100000000001013"
+themeOtherPath = contentsPath + "/0100000000001007"
+themePaths = [themePath, fontPath, fontAltPath, themeAltPath, themeOtherPath]
+
+menuOptions = ["null", "Remove Theme"].copy()
+menuStates = [hide, disabled].copy()
+
+initialize = {
+	if(!fsexists(contentsPath)){
+		fatal(fatalMsg = "You need use atmosphere")
+	}
+	color(0xFFFF00)
+	p("Loading theme...\n")
+	contentsFolder = readdir(contentsPath) 
+	if (contentsFolder.result) {
+		 exit() 
+	} 
+	getThemeState()
+}
+
+
+getThemeState = {
+	themePaths.foreach("folder") { 
+		if(fsexists(folder)){
+			# if some folder exists, then the theme is active
+			menuStates[1] = enabled
+		}
+	}
+}
+
+deleteTheme = {
+	themePaths.foreach("folder") { 
+		if(fsexists(folder)){
+			# if some folder exists, then the theme is active
+			deldir(folder)
+		}
+	}
+}
+
+fatal = {
+	color(0xFF0000)
+	p("\n[FATAL]", fatalMsg)
+	pause()
+	exit()
+}
+
+initialize()
+goOut = 0
+clear()
+color(0xFFFFFF)
+printpos(1,41)
+println("\n Atmosphere theme remover -- Created by Team Racoon -- Oct/2021 -- v1.0.0\n")
+printpos(1,1)
+if(menuStates[1] == disabled){
+	color(0xFFFF00)
+	println("\nYou doesn't have any theme, nothing to remove")
+	println("\nPress any button to exit.\n\n")
+	color(0xFFAA00)
+	println("\nNo tenes ningun theme instalado, nada que borrar.")
+	println("\nPresiona cualquier boton para salir.\n")
+	pause()
+}.else(){
+	color(0xFF0000)
+	println("\nPress B to exit without remove nothing.")
+	println("\nPresiona B para salir sin borrar nada.\n\n")
+	color(0xFFFFFF)
+	println("\n-- Theme --\n")
+	optionSelected = menu(menuOptions,0,menuStates)
+	if(optionSelected == 0){}.else(){
+		clear()
+		deleteTheme()
+		color(0x00FF00)
+		println("\nTheme removed successful.")
+		println("\nTheme borrado correctamente.\n")
+		color(0xFFAA00)
+		println("\nPress any button to exit.")
+		println("\nPresiona cualquier boton para salir.\n")
+		pause()
+	}
+}
