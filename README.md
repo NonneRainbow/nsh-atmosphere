@@ -16,7 +16,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[sys-ftpd-light](https://github.com/cathery/sys-ftpd-light/releases) v1.0.4 - ftp server  
 •[sys-con](https://github.com/cathery/sys-con/releases) v0.6.4 - generic joysticks  
 •[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.12.0 - lan-play   
-•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.6.4-master-0ee33b3 - bluetooth joysticks
+•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.7.0-master-1dbe182 - bluetooth joysticks 🆙  
 
 **.overlays**  
 •[emuiibo.ovl](https://github.com/XorTroll/emuiibo/releases) v0.6.4 🆙  
@@ -24,11 +24,11 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[ovlEdiZon.ovl](https://github.com/WerWolv/EdiZon/releases) v1.0.0  
 •[ovlmenu.ovl](https://github.com/WerWolv/Tesla-Menu/releases) v1.1.4  
 •[ovlSysmodules.ovl](https://github.com/WerWolv/ovl-sysmodules/releases) v1.2.2  
-•[Status-Monitor-Overlay.ovl](https://github.com/masagrator/Status-Monitor-Overlay/releases) v0.6.3  
+•[Status-Monitor-Overlay.ovl](https://github.com/masagrator/Status-Monitor-Overlay/releases) v0.6.4-b715f05 🆙    
 
 **apps - homebrew**  
 •[App Store](https://github.com/vgmoose/hb-appstore/releases) v2.2 - store of apps  
-•[Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.0.0 - update firmware  
+•[Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.3.1 - update firmware  
 •[DBI](https://github.com/rashevskyv/dbi/releases) v350 - install everything, remove updates
 •[EdiZon](https://github.com/WerWolv/EdiZon/releases) v3.1.0 - backup saves   
 •[JKSV](https://github.com/J-D-K/JKSV/releases) v09.01.2021 - backup saves  
