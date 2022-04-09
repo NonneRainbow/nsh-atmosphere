@@ -24,12 +24,12 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[ovlEdiZon.ovl](https://github.com/WerWolv/EdiZon/releases) v1.0.0  
 •[ovlmenu.ovl](https://github.com/WerWolv/Tesla-Menu/releases) v1.1.4  
 •[ovlSysmodules.ovl](https://github.com/WerWolv/ovl-sysmodules/releases) v1.2.2  
-•[Status-Monitor-Overlay.ovl](https://github.com/masagrator/Status-Monitor-Overlay/releases) v0.6.4-b715f05 🆙    
+•[Status-Monitor-Overlay.ovl](https://github.com/masagrator/Status-Monitor-Overlay/releases) v0.6.4-b715f05 🆙   
 
 **apps - homebrew**  
 •[App Store](https://github.com/vgmoose/hb-appstore/releases) v2.2 - store of apps  
 •[Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.3.1 - update firmware  
-•[DBI](https://github.com/rashevskyv/dbi/releases) v350 - install everything, remove updates
+•[DBI](https://github.com/rashevskyv/dbi/releases) v358 - install everything, remove updates 🆙  
 •[EdiZon](https://github.com/WerWolv/EdiZon/releases) v3.1.0 - backup saves   
 •[JKSV](https://github.com/J-D-K/JKSV/releases) v09.01.2021 - backup saves  
 •[Linkalho](https://github.com/rdmrocha/linkalho/releases) v1.0.6 - link fake Nintendo accounts   
