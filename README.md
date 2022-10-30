@@ -6,8 +6,8 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 
 # Lista de cambios para el pack 1.3.2
 
-**[Atmosphere 1.3.2 build b91294d3b](https://github.com/Atmosphere-NX/Atmosphere/releases)**  
-**[Hekate 5.7.2 - Nyx 1.2.2](https://github.com/CTCaer/hekate/releases)**
+**[Atmosphere 1.4.2 build 36a33617a](https://github.com/Atmosphere-NX/Atmosphere/releases)**  
+**[Hekate 5.9.0 - Nyx 1.4.0](https://github.com/CTCaer/hekate/releases)**
 
 
 **módulos**  
@@ -16,12 +16,12 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[emuiibo](https://github.com/XorTroll/emuiibo/releases) v0.6.4 - amiibos  
 •[sys-ftpd-light](https://github.com/cathery/sys-ftpd-light/releases) v1.0.4 - ftp server  
 •[sys-con](https://github.com/cathery/sys-con/releases) v0.6.4 - generic joysticks  
-•[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.13.0 - lan-play 🆙   
-•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.7.0-master-1dbe182 - bluetooth joysticks  
+•[ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.14.0 - lan-play 🆙   
+•[missionControl](https://github.com/ndeadly/MissionControl/releases/) v0.8.0-master-1dbe182 - bluetooth joysticks 🆙  
 
 **.overlays**  
 •[emuiibo.ovl](https://github.com/XorTroll/emuiibo/releases) v0.6.4  
-•[overlay ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.13.0 - lan-play 🆙  
+•[overlay ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.14.0 - lan-play 🆙  
 •[ovlEdiZon.ovl](https://github.com/WerWolv/EdiZon/releases) v1.0.0  
 •[ovlmenu.ovl](https://github.com/WerWolv/Tesla-Menu/releases) v1.1.4  
 •[ovlSysmodules.ovl](https://github.com/WerWolv/ovl-sysmodules/releases) v1.2.2  
