@@ -24,7 +24,7 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 •[overlay ldn_mitm](https://github.com/spacemeowx2/ldn_mitm/releases) v1.14.0 - lan-play 🆙  
 •[ovlEdiZon.ovl](https://github.com/WerWolv/EdiZon/releases) v1.0.0  
 •[ovlmenu.ovl](https://github.com/WerWolv/Tesla-Menu/releases) v1.1.4  
-•[ovlSysmodules.ovl](https://github.com/WerWolv/ovl-sysmodules/releases) v1.2.2  
+•[ovlSysmodules.ovl](https://github.com/WerWolv/ovl-sysmodules/releases) v1.3.0 🆙  
 •[Status-Monitor-Overlay.ovl](https://github.com/masagrator/Status-Monitor-Overlay/releases) v0.6.4-b715f05   
 
 **apps - homebrew**  
@@ -42,9 +42,9 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 
 **payloads**  
 •[nsh-payload](https://github.com/team-racoon/nsh-atmosphere/releases) v1.0 nsh-payload ==> always looks for a payload.bin on the sd  
-•[fusee](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.3.1 atmosphere payload  
+•[fusee](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.4.0 atmosphere payload 🆙  
 •[Lockpick_RCM](https://github.com/shchmue/Lockpick_RCM/releases) v1.9.8 get the console keys  
-•[TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/releases) v4.0.1-hotfix2 file explorer  
+•[TegraExplorer](https://github.com/suchmememanyskill/TegraExplorer/releases) v4.0.1-hotfix3 file explorer 🆙  
 
 
 -----------------------------------------------------------------------------
