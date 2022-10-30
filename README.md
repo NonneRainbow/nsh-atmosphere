@@ -29,11 +29,11 @@ Es un pack todo en uno que contiene el CFW **Atmosphere** el gestor de arranque 
 
 **apps - homebrew**  
 •[App Store](https://github.com/vgmoose/hb-appstore/releases) v2.2 - store of apps  
-•[Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.3.1 - update firmware  
-•[DBI](https://github.com/rashevskyv/dbi/releases) v358 - install everything, remove updates  
+•[Daybreak](https://github.com/Atmosphere-NX/Atmosphere/releases) v1.4.0 - update firmware 🆙  
+•[DBI](https://github.com/rashevskyv/dbi/releases) v438 - install everything, remove updates 🆙  
 •[EdiZon](https://github.com/WerWolv/EdiZon/releases) v3.1.0 - backup saves   
 •[JKSV](https://github.com/J-D-K/JKSV/releases) v09.01.2021 - backup saves  
-•[Linkalho](https://github.com/rdmrocha/linkalho/releases) v1.0.6 - link fake Nintendo accounts   
+•[Linkalho](https://github.com/rdmrocha/linkalho/releases) v2.0.1 - link fakes Nintendo accounts 🆙   
 •[NXdumptool](https://github.com/DarkMatterCore/nxdumptool/releases) v1.1.15  - backup of games  
 •[NX-Shell](https://github.com/joel16/NX-Shell/releases) v3.2.0 - file explorer  
 •[NXthemes_Installer](https://github.com/exelix11/SwitchThemeInjector/releases) v2.7 - install themes  
